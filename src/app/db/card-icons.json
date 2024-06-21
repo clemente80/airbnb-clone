@@ -1,0 +1,91 @@
+{
+    "cardsIcons":[
+        {
+            "titleCard": "Go VIP with Kevin Hart",
+            "urlCard": "bg-[url(https://media.newyorker.com/photos/5cb7a0e992dcf02ddc8613c2/master/pass/DSF-KevinHartSpecial.jpg)]",
+            "hosted": "Kevin Hart",
+            "status": "Coming August"
+        },
+        {
+            "titleCard": "Watch the Palmeiras at the Arena Park",
+            "urlCard": "bg-[url(https://t2.tudocdn.net/653688?w=1200&h=1200)]",
+            "hosted": "WTorre",
+            "status": "Coming October"
+        },
+        {
+            "titleCard": "Game with Khaby Lame",
+            "urlCard": "bg-[url(https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTEzMTA3NzgxMzcwNzcxOTUzNQ%3D%3D/original/872f434b-9348-4ff1-8c6f-754fdbab4010.jpeg)]",
+            "hosted": "Khaby Lame",
+            "status": "Sold out"
+        },
+        {
+            "titleCard": "Meeting with Elon Musk",
+            "urlCard": "bg-[url(https://einvestidor.estadao.com.br/wp-content/uploads/2024/04/elon-musk-tesla_100420241607.jpg)]",
+            "hosted": "Elon Musk",
+            "status": "Sold out"
+        },
+        {
+            "titleCard": "Airbnb Ceo explains in event",
+            "description": "Airbnb CEO Brian Chesky explains what he plans to do about cleaning fees and New York City's crackdown",
+            "urlCard": "bg-[url(https://compote.slate.com/images/302ff4e8-bd07-4233-9484-dd7f144583f6.jpeg)]",
+            "hosted": "Brian Chesky",
+            "status": "Coming November"
+        },
+        {
+            "titleCard": "Festival Beer",
+            "description": "Meeting with girls hot in oktoberfest",
+            "urlCard": "bg-[url(https://img.freepik.com/premium-photo/woman-with-beer-generative-ai_132453-11968.jpg)]",
+            "hosted": "Oktoberfest",
+            "status": "Sold out"
+        },
+        {
+            "titleCard": "E3 2024 in Los Angeles",
+            "description": "Meeting with ",
+            "urlCard": "bg-[url(https://i.ytimg.com/vi/_faL5eiSjew/maxresdefault.jpg)]",
+            "hosted": "EnterElectronic Entertainment Expo",
+            "status": "Coming December"
+        },
+        {
+            "titleCard": "Visit in Sony",
+            "description": "Meeting with PS5 Pro at Sony",
+            "urlCard": "bg-[url(https://blogemuonfire.com.br/wp-content/uploads/2024/03/ps5-pro.jpg)]",
+            "hosted": "Sony",
+            "status": "Sold out"
+        },
+        {
+            "titleCard": "Open the Olympic Games at Musée d’Orsay",
+            "description": "Open the Olympic Games at Musée d’Orsay",
+            "urlCard": "bg-[url(https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTE2MjI1MjI0NDQ0MzYzMjM4Mg%3D%3D/original/ae3426d1-fba4-44d4-bed2-690426f25f7a.jpeg)]",
+            "hosted": "Mathieu Lehanneur",
+            "status": "Sold out"
+        },
+        {
+            "titleCard": "Go on tour with Feid",
+            "description": "Filadélfia, Pensilvânia, Estados Unidos",
+            "urlCard": "bg-[url(https://a0.muscache.com/im/pictures/hosting/Hosting-U3RheVN1cHBseUxpc3Rpbmc6MTEyNjI0NzUwMDUwMTg2Mzg5MA%3D%3D/original/99417998-fa44-4c75-ae77-287c1468977b.jpeg)]",
+            "hosted": "Feid",
+            "status": "Sold out"
+        },
+        {
+            "titleCard": "Go on tour at Rio",
+            "description": "Rio de Janeiro, Brazil",
+            "urlCard": "bg-[url(https://www.melhoresdestinos.com.br/wp-content/uploads/2023/09/cristo-redentor-rio-capa-05.jpg)]",
+            "hosted": "Turismo Marcelo",
+            "status": "Coming December"
+        },
+        {
+            "titleCard": "Tour in Fortaleza",
+            "description": "Fortaleza, Brazil",
+            "urlCard": "bg-[url(https://viagemeturismo.abril.com.br/wp-content/uploads/2016/12/praia-de-meireles-e1482425853260.jpg)]",
+            "hosted": "Turismo André Luis",
+            "status": "Sold out"
+        },
+        {
+            "titleCard": "Go on visit at Marilia",
+            "description": "Marília, Brazil",
+            "urlCard": "bg-[url(https://live.staticflickr.com/5733/23445011669_0c81d741ba_b.jpg)]",
+            "hosted": "Tour Reinaldo Jr",
+            "status": "Coming September"
+        }
+    ]
+}

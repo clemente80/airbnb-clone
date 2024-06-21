@@ -2,9 +2,10 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faAirbnb } from '@fortawesome/free-brands-svg-icons'
 import { faUser } from '@fortawesome/free-regular-svg-icons'
 import { faBars, faGlobe } from '@fortawesome/free-solid-svg-icons'
-import { Outfit } from 'next/font/google'
+import { Outfit, Source_Code_Pro } from 'next/font/google'
 
 const outfit = Outfit({ weight: ["700"], subsets: ['latin'] });
+const source = Source_Code_Pro({ weight: ["400"], subsets: ['latin'] });
 
 export const Header = (() => {
     return (
@@ -12,6 +13,7 @@ export const Header = (() => {
             <div className='flex items-center gap-1 text-[#ff385c] font-black'>
                 <FontAwesomeIcon icon={faAirbnb} className='h-[35px]'/>
                 <p className={`${outfit.className} text-[24px]`}>airbnb</p>
+                <p className={`${source.className} text-[18px] translate-y-[1px]`}>clone</p>
             </div>
             <div className='absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 flex flex-col items-center'>
                 <div className='flex items-center justify-center gap-4'>
