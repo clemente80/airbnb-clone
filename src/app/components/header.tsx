@@ -15,14 +15,14 @@ export const Header: React.FC = (() => {
     const [modalLogin, setModalLogin] = React.useState(false)
 
     return (
-        <section className="relative w-full h-[180px] flex justify-between px-20 py-5">
+        <section className="relative w-full h-[150px] flex justify-between px-20 py-5 z-10">
             <div className='flex h-fit gap-1 text-[#ff385c] font-black'>
                 <FontAwesomeIcon icon={faAirbnb} className='h-[35px]'/>
                 <p className={`${outfit.className} text-[24px]`}>airbnb</p>
                 <p className={`${source.className} text-[18px] translate-y-[1px]`}>clone</p>
             </div>
             <div className='absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 flex flex-col items-center'>
-                <div className='flex items-center justify-center gap-4 mb-4'>
+                <div className='flex items-center justify-center gap-10 mb-4'>
                     <p>Acomodações</p>
                     <p>Experiências</p>
                     <p>Experiências online</p>
